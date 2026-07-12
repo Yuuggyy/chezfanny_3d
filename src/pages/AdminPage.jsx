@@ -16,14 +16,14 @@ const STATUT_NEXT   = { recue: 'en_cours', en_cours: 'terminee' };
 
 // ─── Couleurs marque Chez Fanny ───────────────────────────────
 const C = {
-  primary:     '#1A3A2A',
-  primaryMid:  '#2D5E42',
+  primary:     '#7B3A5A',
+  primaryMid:  '#9C4A70',
   primarySoft: 'rgba(123,58,90,0.08)',
-  gold:        '#B8943F',
-  goldLight:   '#D4AF6A',
-  beige:       '#F5EDD8',
-  cream:       '#FBF8F0',
-  dark:        '#1A1A14',
+  gold:        '#E8A0B4',
+  goldLight:   '#F0B8C8',
+  beige:       '#FFF0F4',
+  cream:       '#FFFAFC',
+  dark:        '#1A0010',
   darkSoft:    'rgba(0,0,0,0.52)',
   border:      'rgba(232,160,180,0.25)',
   success:     '#1E8449',
@@ -49,7 +49,7 @@ function LoginForm({ onLogin }) {
   return (
     <div style={{
       minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center',
-      background: `linear-gradient(160deg, ${C.primary} 0%, #0D2019 50%, #1A1A14 100%)`,
+      background: `linear-gradient(160deg, ${C.primary} 0%, #4A1A35 50%, #1A0010 100%)`,
       padding: 20,
     }}>
       <div style={{ width: '100%', maxWidth: 420 }}>

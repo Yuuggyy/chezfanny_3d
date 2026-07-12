@@ -3,13 +3,13 @@ import { createCommande } from '../lib/supabase';
 
 // ─── Couleurs Chez Fanny ───────────────────────────────────────
 const C = {
-  primary:    '#1A3A2A',
-  primaryMid: '#2D5E42',
-  gold:       '#B8943F',
-  goldLight:  '#D4AF6A',
-  beige:      '#F5EDD8',
-  cream:      '#FBF8F0',
-  dark:       '#1A1A14',
+  primary:    '#7B3A5A',
+  primaryMid: '#9C4A70',
+  gold:       '#E8A0B4',
+  goldLight:  '#F0B8C8',
+  beige:      '#FFF0F4',
+  cream:      '#FFFAFC',
+  dark:       '#1A0010',
   darkSoft:   'rgba(0,0,0,0.52)',
   border:     'rgba(232,160,180,0.20)',
   danger:     '#C0392B',
