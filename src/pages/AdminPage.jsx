@@ -128,7 +128,7 @@ function LoginForm({ onLogin }) {
         </div>
 
         <p style={{ textAlign: 'center', color: 'rgba(245,237,216,0.25)', fontSize: 12, marginTop: 28 }}>
-          Tout chemin mène au Centre ·  Kinshasa
+          Chez Fanny · La cuisine du cœur
         </p>
       </div>
     </div>
