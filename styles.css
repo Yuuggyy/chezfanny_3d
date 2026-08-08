@@ -1,11 +1,11 @@
 :root {
-  --brand-primary: #7B3F00;
-  --brand-primary-mid: #9B5F1A;
-  --brand-gold: #F0C040;
-  --brand-gold-light: #FFD960;
-  --brand-beige: #F8F0E8;
-  --brand-cream: #FCF8F0;
-  --brand-dark: #4A2A00;
+  --brand-primary: #1A1A1A;
+  --brand-primary-mid: #2D2D2D;
+  --brand-gold: #8E2435;
+  --brand-gold-light: #B03040;
+  --brand-beige: #FAF5F5;
+  --brand-cream: #FDFAFA;
+  --brand-dark: #0A0A0A;
   --brand-dark-soft: rgba(26,26,0,0.55);
   --brand-border: rgba(200,184,0,0.22);
   --danger: #C0392B;
